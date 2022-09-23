@@ -1,0 +1,7 @@
+@ eco off
+
+mkdir D:\usurio\iser2022\escritorio\carpeta_1
+mkdir D:\usurio\iser2022\escritorio\carpeta_2
+arbol D:\usurio\iser2022\escritorio > arbol.txt
+ 
+pausa
