@@ -1,0 +1,9 @@
+@ eco off
+
+set /p letra=letra_unidad
+set /p formato=formato_unidad
+set /p label=nombre_dispositivo
+format %letra% /FS:%format% /V:%label% /q
+
+ 
+pausa
