@@ -1,0 +1,5 @@
+@ eco off
+
+xcopy D:\user\ISER2022\desktop\Archivos D:\Archivos-10,2%%date:~-7,%%date:~-4,4%
+
+pausa

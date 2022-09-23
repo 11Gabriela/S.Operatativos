@@ -1,0 +1,9 @@
+@ eco off
+
+del D:\user\ISER2022\desktop\Archivos\Archivo1.txt
+del D:\user\ISER2022\desktop\Archivos\Archivo2.txt
+del D:\user\ISER2022\desktop\Archivos\Archivo3.txt
+del D:\user\ISER2022\desktop\Archivos\Archivo4.txt
+
+ 
+pausa
